@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Headphones,Electronics,105.33,65.04
+P002,Smart Watch,Electronics,258.46,137.62
+P003,Speaker,Electronics,210.55,109.92
+P004,Tablet,Electronics,284.0,185.56
+P005,Charger,Electronics,168.63,95.06
+P006,Jacket,Apparel,99.84,53.0
+P007,Sneakers,Apparel,291.29,160.51
+P008,T-Shirt,Apparel,158.26,110.31
+P009,Jeans,Apparel,200.04,117.15
+P010,Cap,Apparel,128.67,63.94
+P011,Lamp,Home,113.64,72.63
+P012,Blender,Home,190.62,122.0
+P013,Cookware Set,Home,67.44,39.61
+P014,Throw Pillow,Home,278.88,156.04
+P015,Kettle,Home,211.89,101.78
+P016,Coffee Beans,Grocery,292.16,175.94
+P017,Olive Oil,Grocery,77.87,38.12
+P018,Tea Box,Grocery,168.84,99.29
+P019,Granola,Grocery,35.22,24.59
+P020,Honey,Grocery,274.58,155.24

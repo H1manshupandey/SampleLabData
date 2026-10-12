@@ -1,0 +1,201 @@
+customer_id,customer_name,email,city,state,segment,signup_date
+C0001,Liam Smith,liam.smith1@contoso.com,Miami,FL,Small Business,2024-05-05
+C0002,Emma Garcia,emma.garcia2@contoso.com,Miami,FL,Consumer,2024-12-12
+C0003,Sofia Patel,sofia.patel3@contoso.com,Denver,CO,Small Business,2024-01-17
+C0004,Ava Patel,ava.patel4@contoso.com,Austin,TX,Consumer,2024-09-15
+C0005,Mason Smith,mason.smith5@contoso.com,Denver,CO,Consumer,2025-01-01
+C0006,Sofia Lee,sofia.lee6@contoso.com,Austin,TX,Small Business,2024-10-28
+C0007,Mia Smith,mia.smith7@contoso.com,Austin,TX,Corporate,2024-08-04
+C0008,Ethan Brown,ethan.brown8@contoso.com,Austin,TX,Consumer,2025-05-05
+C0009,Ethan Patel,ethan.patel9@contoso.com,Seattle,WA,Small Business,2024-02-19
+C0010,Ethan Khan,ethan.khan10@contoso.com,Denver,CO,Small Business,2025-02-17
+C0011,Ava Lopez,ava.lopez11@contoso.com,Denver,CO,Consumer,2025-05-13
+C0012,Olivia Patel,olivia.patel12@contoso.com,Denver,CO,Small Business,2025-02-28
+C0013,Mason Khan,mason.khan13@contoso.com,Denver,CO,Consumer,2024-12-26
+C0014,Liam Smith,liam.smith14@contoso.com,Miami,FL,Consumer,2025-01-30
+C0015,Mia Patel,mia.patel15@contoso.com,Austin,TX,Consumer,2024-07-13
+C0016,Mia Lopez,mia.lopez16@contoso.com,Miami,FL,Small Business,2024-03-24
+C0017,Ethan Khan,ethan.khan17@contoso.com,Austin,TX,Corporate,2024-05-16
+C0018,Liam Garcia,liam.garcia18@contoso.com,Denver,CO,Corporate,2024-05-05
+C0019,Noah Lopez,noah.lopez19@contoso.com,Boston,MA,Small Business,2025-04-18
+C0020,Sofia Chen,sofia.chen20@contoso.com,Miami,FL,Small Business,2025-03-07
+C0021,Ava Chen,ava.chen21@contoso.com,Seattle,WA,Small Business,2024-07-24
+C0022,Mia Patel,mia.patel22@contoso.com,Austin,TX,Corporate,2025-03-24
+C0023,Ethan Chen,ethan.chen23@contoso.com,Miami,FL,Small Business,2024-07-21
+C0024,Lucas Garcia,lucas.garcia24@contoso.com,Chicago,IL,Consumer,2024-05-06
+C0025,Sofia Brown,sofia.brown25@contoso.com,Miami,FL,Corporate,2024-08-07
+C0026,Mason Lee,mason.lee26@contoso.com,Chicago,IL,Consumer,2024-03-11
+C0027,Sofia Lopez,sofia.lopez27@contoso.com,Seattle,WA,Consumer,2025-03-16
+C0028,Liam Garcia,liam.garcia28@contoso.com,Miami,FL,Consumer,2025-02-09
+C0029,Olivia Patel,olivia.patel29@contoso.com,Boston,MA,Small Business,2024-11-01
+C0030,Lucas Brown,lucas.brown30@contoso.com,Denver,CO,Consumer,2024-12-14
+C0031,Liam Brown,liam.brown31@contoso.com,Miami,FL,Small Business,2024-02-27
+C0032,Mia Lee,mia.lee32@contoso.com,Austin,TX,Small Business,2024-01-02
+C0033,Mia Garcia,mia.garcia33@contoso.com,Denver,CO,Consumer,2025-03-21
+C0034,Mia Chen,mia.chen34@contoso.com,Austin,TX,Small Business,2025-01-25
+C0035,Noah Smith,noah.smith35@contoso.com,Denver,CO,Small Business,2024-09-07
+C0036,Ava Patel,ava.patel36@contoso.com,Chicago,IL,Small Business,2024-05-02
+C0037,Ava Chen,ava.chen37@contoso.com,Denver,CO,Consumer,2024-02-13
+C0038,Lucas Patel,lucas.patel38@contoso.com,Denver,CO,Consumer,2024-03-06
+C0039,Lucas Garcia,lucas.garcia39@contoso.com,Chicago,IL,Corporate,2025-03-22
+C0040,Mason Lee,mason.lee40@contoso.com,Austin,TX,Corporate,2025-01-21
+C0041,Emma Brown,emma.brown41@contoso.com,Boston,MA,Corporate,2024-11-28
+C0042,Ethan Lopez,ethan.lopez42@contoso.com,Denver,CO,Small Business,2024-03-02
+C0043,Emma Chen,emma.chen43@contoso.com,Seattle,WA,Small Business,2024-01-11
+C0044,Mason Chen,mason.chen44@contoso.com,Denver,CO,Consumer,2024-01-04
+C0045,Liam Smith,liam.smith45@contoso.com,Austin,TX,Consumer,2025-04-08
+C0046,Ava Khan,ava.khan46@contoso.com,Seattle,WA,Corporate,2024-05-01
+C0047,Mia Lopez,mia.lopez47@contoso.com,Austin,TX,Corporate,2024-03-08
+C0048,Mason Lopez,mason.lopez48@contoso.com,Austin,TX,Small Business,2025-02-17
+C0049,Olivia Chen,olivia.chen49@contoso.com,Seattle,WA,Consumer,2024-12-03
+C0050,Olivia Khan,olivia.khan50@contoso.com,Boston,MA,Small Business,2024-08-27
+C0051,Ava Patel,ava.patel51@contoso.com,Seattle,WA,Small Business,2025-01-07
+C0052,Ethan Patel,ethan.patel52@contoso.com,Austin,TX,Consumer,2024-04-07
+C0053,Sofia Lopez,sofia.lopez53@contoso.com,Austin,TX,Small Business,2024-04-03
+C0054,Mia Lopez,mia.lopez54@contoso.com,Austin,TX,Consumer,2024-08-14
+C0055,Sofia Patel,sofia.patel55@contoso.com,Seattle,WA,Corporate,2024-10-03
+C0056,Ava Patel,ava.patel56@contoso.com,Austin,TX,Consumer,2024-07-27
+C0057,Lucas Lopez,lucas.lopez57@contoso.com,Austin,TX,Small Business,2025-04-07
+C0058,Ava Garcia,ava.garcia58@contoso.com,Boston,MA,Consumer,2024-07-18
+C0059,Mia Lopez,mia.lopez59@contoso.com,Chicago,IL,Small Business,2024-12-22
+C0060,Sofia Lopez,sofia.lopez60@contoso.com,Austin,TX,Consumer,2024-05-31
+C0061,Emma Smith,emma.smith61@contoso.com,Denver,CO,Corporate,2024-10-04
+C0062,Ava Khan,ava.khan62@contoso.com,Seattle,WA,Consumer,2024-10-26
+C0063,Lucas Garcia,lucas.garcia63@contoso.com,Seattle,WA,Corporate,2024-02-11
+C0064,Noah Patel,noah.patel64@contoso.com,Denver,CO,Consumer,2024-12-11
+C0065,Emma Lee,emma.lee65@contoso.com,Seattle,WA,Corporate,2024-05-06
+C0066,Mason Smith,mason.smith66@contoso.com,Denver,CO,Consumer,2024-08-02
+C0067,Mason Khan,mason.khan67@contoso.com,Chicago,IL,Consumer,2024-12-08
+C0068,Ethan Chen,ethan.chen68@contoso.com,Chicago,IL,Small Business,2024-03-08
+C0069,Mia Lopez,mia.lopez69@contoso.com,Chicago,IL,Consumer,2024-01-05
+C0070,Lucas Patel,lucas.patel70@contoso.com,Seattle,WA,Corporate,2024-04-19
+C0071,Sofia Brown,sofia.brown71@contoso.com,Austin,TX,Small Business,2025-03-27
+C0072,Liam Chen,liam.chen72@contoso.com,Chicago,IL,Small Business,2024-03-21
+C0073,Lucas Brown,lucas.brown73@contoso.com,Denver,CO,Corporate,2024-09-27
+C0074,Ava Brown,ava.brown74@contoso.com,Miami,FL,Consumer,2025-04-25
+C0075,Noah Brown,noah.brown75@contoso.com,Seattle,WA,Consumer,2025-01-15
+C0076,Sofia Garcia,sofia.garcia76@contoso.com,Chicago,IL,Small Business,2024-11-05
+C0077,Emma Khan,emma.khan77@contoso.com,Austin,TX,Corporate,2024-11-20
+C0078,Mia Lopez,mia.lopez78@contoso.com,Chicago,IL,Consumer,2024-02-17
+C0079,Olivia Brown,olivia.brown79@contoso.com,Seattle,WA,Consumer,2024-06-19
+C0080,Noah Brown,noah.brown80@contoso.com,Austin,TX,Corporate,2024-08-14
+C0081,Sofia Lee,sofia.lee81@contoso.com,Denver,CO,Consumer,2024-02-27
+C0082,Liam Garcia,liam.garcia82@contoso.com,Denver,CO,Consumer,2025-03-03
+C0083,Ethan Garcia,ethan.garcia83@contoso.com,Boston,MA,Consumer,2024-01-22
+C0084,Mia Khan,mia.khan84@contoso.com,Seattle,WA,Small Business,2024-04-17
+C0085,Emma Patel,emma.patel85@contoso.com,Chicago,IL,Corporate,2025-03-28
+C0086,Olivia Garcia,olivia.garcia86@contoso.com,Austin,TX,Consumer,2025-05-14
+C0087,Noah Lee,noah.lee87@contoso.com,Seattle,WA,Consumer,2025-01-12
+C0088,Ethan Lee,ethan.lee88@contoso.com,Miami,FL,Corporate,2025-02-19
+C0089,Emma Brown,emma.brown89@contoso.com,Austin,TX,Corporate,2024-02-25
+C0090,Olivia Smith,olivia.smith90@contoso.com,Boston,MA,Consumer,2024-04-12
+C0091,Lucas Khan,lucas.khan91@contoso.com,Chicago,IL,Consumer,2024-04-24
+C0092,Ava Chen,ava.chen92@contoso.com,Boston,MA,Small Business,2024-05-22
+C0093,Liam Brown,liam.brown93@contoso.com,Chicago,IL,Corporate,2024-09-17
+C0094,Olivia Khan,olivia.khan94@contoso.com,Seattle,WA,Consumer,2025-03-25
+C0095,Mia Garcia,mia.garcia95@contoso.com,Denver,CO,Small Business,2024-01-20
+C0096,Liam Lee,liam.lee96@contoso.com,Chicago,IL,Corporate,2025-02-06
+C0097,Ethan Lee,ethan.lee97@contoso.com,Denver,CO,Corporate,2024-02-29
+C0098,Olivia Chen,olivia.chen98@contoso.com,Chicago,IL,Consumer,2024-12-28
+C0099,Olivia Smith,olivia.smith99@contoso.com,Denver,CO,Corporate,2024-12-17
+C0100,Emma Khan,emma.khan100@contoso.com,Boston,MA,Consumer,2025-04-30
+C0101,Ethan Khan,ethan.khan101@contoso.com,Miami,FL,Consumer,2025-01-03
+C0102,Mia Brown,mia.brown102@contoso.com,Miami,FL,Small Business,2024-06-16
+C0103,Olivia Brown,olivia.brown103@contoso.com,Denver,CO,Consumer,2024-04-08
+C0104,Olivia Lee,olivia.lee104@contoso.com,Miami,FL,Corporate,2025-04-07
+C0105,Noah Brown,noah.brown105@contoso.com,Boston,MA,Corporate,2025-03-02
+C0106,Ava Brown,ava.brown106@contoso.com,Chicago,IL,Consumer,2024-08-08
+C0107,Mason Khan,mason.khan107@contoso.com,Boston,MA,Small Business,2024-08-14
+C0108,Emma Lopez,emma.lopez108@contoso.com,Miami,FL,Consumer,2024-12-03
+C0109,Liam Brown,liam.brown109@contoso.com,Denver,CO,Corporate,2024-11-20
+C0110,Mason Khan,mason.khan110@contoso.com,Seattle,WA,Consumer,2024-12-10
+C0111,Mia Chen,mia.chen111@contoso.com,Austin,TX,Consumer,2024-01-13
+C0112,Ava Chen,ava.chen112@contoso.com,Boston,MA,Corporate,2025-03-11
+C0113,Liam Lopez,liam.lopez113@contoso.com,Boston,MA,Corporate,2024-10-21
+C0114,Emma Lee,emma.lee114@contoso.com,Boston,MA,Small Business,2024-05-04
+C0115,Noah Smith,noah.smith115@contoso.com,Seattle,WA,Small Business,2024-04-22
+C0116,Noah Lopez,noah.lopez116@contoso.com,Seattle,WA,Corporate,2024-05-07
+C0117,Liam Lopez,liam.lopez117@contoso.com,Austin,TX,Small Business,2024-12-07
+C0118,Sofia Khan,sofia.khan118@contoso.com,Boston,MA,Corporate,2025-02-21
+C0119,Sofia Lee,sofia.lee119@contoso.com,Denver,CO,Small Business,2025-04-04
+C0120,Noah Lopez,noah.lopez120@contoso.com,Boston,MA,Small Business,2025-01-19
+C0121,Emma Brown,emma.brown121@contoso.com,Denver,CO,Small Business,2024-11-16
+C0122,Emma Brown,emma.brown122@contoso.com,Boston,MA,Consumer,2024-12-31
+C0123,Mia Chen,mia.chen123@contoso.com,Chicago,IL,Small Business,2024-06-12
+C0124,Sofia Patel,sofia.patel124@contoso.com,Austin,TX,Consumer,2024-04-28
+C0125,Olivia Garcia,olivia.garcia125@contoso.com,Miami,FL,Consumer,2024-02-02
+C0126,Olivia Lee,olivia.lee126@contoso.com,Chicago,IL,Corporate,2024-08-26
+C0127,Olivia Smith,olivia.smith127@contoso.com,Austin,TX,Small Business,2024-07-18
+C0128,Mason Smith,mason.smith128@contoso.com,Denver,CO,Small Business,2024-09-01
+C0129,Ava Khan,ava.khan129@contoso.com,Chicago,IL,Small Business,2025-03-12
+C0130,Olivia Chen,olivia.chen130@contoso.com,Boston,MA,Consumer,2024-05-19
+C0131,Olivia Lopez,olivia.lopez131@contoso.com,Seattle,WA,Small Business,2024-06-21
+C0132,Olivia Garcia,olivia.garcia132@contoso.com,Boston,MA,Consumer,2024-11-14
+C0133,Sofia Smith,sofia.smith133@contoso.com,Boston,MA,Corporate,2024-10-15
+C0134,Ava Patel,ava.patel134@contoso.com,Miami,FL,Small Business,2024-03-10
+C0135,Lucas Garcia,lucas.garcia135@contoso.com,Seattle,WA,Small Business,2024-07-13
+C0136,Ethan Chen,ethan.chen136@contoso.com,Boston,MA,Small Business,2024-06-21
+C0137,Olivia Brown,olivia.brown137@contoso.com,Boston,MA,Small Business,2025-03-03
+C0138,Liam Lopez,liam.lopez138@contoso.com,Seattle,WA,Corporate,2024-10-03
+C0139,Ava Khan,ava.khan139@contoso.com,Austin,TX,Corporate,2024-02-05
+C0140,Ava Smith,ava.smith140@contoso.com,Austin,TX,Consumer,2025-03-05
+C0141,Ava Garcia,ava.garcia141@contoso.com,Austin,TX,Consumer,2024-08-30
+C0142,Liam Chen,liam.chen142@contoso.com,Boston,MA,Corporate,2024-05-11
+C0143,Ethan Garcia,ethan.garcia143@contoso.com,Denver,CO,Corporate,2025-05-08
+C0144,Liam Garcia,liam.garcia144@contoso.com,Chicago,IL,Consumer,2024-10-23
+C0145,Ava Brown,ava.brown145@contoso.com,Denver,CO,Corporate,2025-04-09
+C0146,Olivia Lee,olivia.lee146@contoso.com,Miami,FL,Consumer,2024-02-08
+C0147,Mason Chen,mason.chen147@contoso.com,Seattle,WA,Corporate,2025-01-30
+C0148,Mia Patel,mia.patel148@contoso.com,Denver,CO,Consumer,2024-06-26
+C0149,Sofia Lee,sofia.lee149@contoso.com,Miami,FL,Small Business,2024-02-05
+C0150,Sofia Khan,sofia.khan150@contoso.com,Seattle,WA,Small Business,2025-02-25
+C0151,Lucas Patel,lucas.patel151@contoso.com,Boston,MA,Small Business,2024-11-21
+C0152,Lucas Garcia,lucas.garcia152@contoso.com,Boston,MA,Consumer,2025-01-10
+C0153,Sofia Brown,sofia.brown153@contoso.com,Denver,CO,Corporate,2025-01-31
+C0154,Lucas Lopez,lucas.lopez154@contoso.com,Boston,MA,Corporate,2024-10-30
+C0155,Mia Khan,mia.khan155@contoso.com,Austin,TX,Consumer,2024-05-22
+C0156,Lucas Chen,lucas.chen156@contoso.com,Boston,MA,Corporate,2024-11-08
+C0157,Olivia Khan,olivia.khan157@contoso.com,Seattle,WA,Small Business,2025-03-11
+C0158,Ethan Garcia,ethan.garcia158@contoso.com,Boston,MA,Consumer,2024-06-30
+C0159,Mia Khan,mia.khan159@contoso.com,Chicago,IL,Corporate,2024-12-25
+C0160,Mia Smith,mia.smith160@contoso.com,Denver,CO,Consumer,2024-02-13
+C0161,Emma Lee,emma.lee161@contoso.com,Boston,MA,Corporate,2025-01-23
+C0162,Emma Lopez,emma.lopez162@contoso.com,Miami,FL,Corporate,2024-09-08
+C0163,Lucas Smith,lucas.smith163@contoso.com,Seattle,WA,Small Business,2024-04-23
+C0164,Olivia Chen,olivia.chen164@contoso.com,Chicago,IL,Corporate,2024-10-24
+C0165,Ethan Lopez,ethan.lopez165@contoso.com,Denver,CO,Corporate,2024-06-25
+C0166,Olivia Khan,olivia.khan166@contoso.com,Chicago,IL,Corporate,2024-08-20
+C0167,Mia Brown,mia.brown167@contoso.com,Chicago,IL,Consumer,2024-03-02
+C0168,Emma Khan,emma.khan168@contoso.com,Seattle,WA,Corporate,2024-10-01
+C0169,Noah Chen,noah.chen169@contoso.com,Austin,TX,Corporate,2024-09-04
+C0170,Mia Brown,mia.brown170@contoso.com,Seattle,WA,Consumer,2024-05-31
+C0171,Emma Khan,emma.khan171@contoso.com,Austin,TX,Small Business,2024-01-08
+C0172,Sofia Garcia,sofia.garcia172@contoso.com,Chicago,IL,Consumer,2025-05-13
+C0173,Ava Brown,ava.brown173@contoso.com,Miami,FL,Consumer,2024-11-22
+C0174,Lucas Patel,lucas.patel174@contoso.com,Seattle,WA,Corporate,2024-05-25
+C0175,Lucas Lopez,lucas.lopez175@contoso.com,Boston,MA,Small Business,2024-04-04
+C0176,Ava Brown,ava.brown176@contoso.com,Boston,MA,Consumer,2025-02-24
+C0177,Liam Lee,liam.lee177@contoso.com,Boston,MA,Consumer,2024-10-22
+C0178,Ava Garcia,ava.garcia178@contoso.com,Austin,TX,Corporate,2025-04-30
+C0179,Mia Patel,mia.patel179@contoso.com,Austin,TX,Consumer,2024-10-12
+C0180,Olivia Chen,olivia.chen180@contoso.com,Denver,CO,Small Business,2024-08-18
+C0181,Lucas Brown,lucas.brown181@contoso.com,Denver,CO,Small Business,2024-06-05
+C0182,Mason Smith,mason.smith182@contoso.com,Denver,CO,Corporate,2024-02-20
+C0183,Emma Chen,emma.chen183@contoso.com,Chicago,IL,Corporate,2024-02-11
+C0184,Noah Chen,noah.chen184@contoso.com,Austin,TX,Corporate,2024-02-08
+C0185,Noah Smith,noah.smith185@contoso.com,Boston,MA,Small Business,2024-12-18
+C0186,Mason Lopez,mason.lopez186@contoso.com,Chicago,IL,Consumer,2024-04-28
+C0187,Mia Brown,mia.brown187@contoso.com,Miami,FL,Small Business,2024-02-06
+C0188,Emma Brown,emma.brown188@contoso.com,Miami,FL,Corporate,2024-12-04
+C0189,Emma Lee,emma.lee189@contoso.com,Seattle,WA,Corporate,2024-04-25
+C0190,Noah Brown,noah.brown190@contoso.com,Austin,TX,Consumer,2024-01-31
+C0191,Noah Brown,noah.brown191@contoso.com,Denver,CO,Corporate,2025-02-26
+C0192,Mason Brown,mason.brown192@contoso.com,Boston,MA,Consumer,2024-08-27
+C0193,Mia Lee,mia.lee193@contoso.com,Chicago,IL,Corporate,2024-10-03
+C0194,Lucas Lopez,lucas.lopez194@contoso.com,Seattle,WA,Corporate,2024-01-21
+C0195,Olivia Khan,olivia.khan195@contoso.com,Denver,CO,Small Business,2024-01-14
+C0196,Liam Chen,liam.chen196@contoso.com,Miami,FL,Corporate,2024-10-27
+C0197,Ava Brown,ava.brown197@contoso.com,Denver,CO,Consumer,2025-01-25
+C0198,Noah Lopez,noah.lopez198@contoso.com,Denver,CO,Corporate,2024-08-14
+C0199,Mia Garcia,mia.garcia199@contoso.com,Denver,CO,Small Business,2024-11-21
+C0200,Lucas Patel,lucas.patel200@contoso.com,Boston,MA,Small Business,2024-07-28
